@@ -1,0 +1,4 @@
+n1, n2, c //number of verticies of in/out and number of checkpoints
+lines 2-n1+1 coords of in track
+lines n1+2-n1+n2+1 coords of in track
+rest lines are coords of checkpoints in form of x1  y1 x2 y2
