@@ -18,7 +18,7 @@ void printArr(vector<int> arr)
         cout << arr[i] << " ";
     }
     cout << endl;
-    
+     
 }
 
 int main()
